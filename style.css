@@ -1,5 +1,8 @@
 body {
-    font-family: 'Montserrat', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Montserrat','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    min-height: 100vh;
+    display:flex;
+    flex-direction: column;
 }
 
 header {
@@ -43,6 +46,7 @@ section ul {
 
 footer {
     background-color: #333;
+    margin-top: auto;
     color: #fff;
     text-align: center;
     padding: 20px;
