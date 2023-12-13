@@ -59,12 +59,12 @@ footer {
 .video-row {
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;
+    /*flex-wrap: wrap;*/
 }
 
 .video-container {
     margin: 0 10px; /* Adjust as needed */
-    width: 33%;
+    width: calc(33% - 20px);
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
