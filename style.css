@@ -58,9 +58,12 @@ footer {
 
 .video-row {
     display: flex;
+    justify-content: space-between;
   }
   
   .video-container {
+    flex: 1;
+    margin: 0 10px;;
     display: flex;
     flex-direction: column;
     width: 33%;
