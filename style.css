@@ -84,7 +84,8 @@ footer {
 .video-container h1 {
     border-radius: 10px; /* Adjust as needed */
     padding: 10px; /* Adjust as needed */
-    background-color: #58caff; /* Adjust as needed */
+    background-color: #add2e4; /* Adjust as needed */
+    margin-bottom: 10px;
 }
 
 .video-container p {
@@ -95,3 +96,8 @@ footer {
     margin-top: 10px; /* Adjust as needed */
 }
 
+header h1, header ul {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 20px;
+}
