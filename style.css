@@ -59,19 +59,19 @@ footer {
 .video-row {
     display: flex;
     justify-content: space-between;
-  }
-  
-  .video-container {
+}
+
+.video-container {
     flex: 1;
-    margin: 0 10px;;
-    display: flex;
-    flex-direction: column;
-    width: 33%;
+    margin: 0 10px; /* Adjust as needed */
     box-sizing: border-box;
-    align-items: center;
-  }
-  
-  .video-container h1,
-  .video-container p {
+}
+
+.video-container video {
+    max-width: 100%;
+}
+
+.video-container h1,
+.video-container p {
     margin: 0;
-  }
+}
