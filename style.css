@@ -112,3 +112,21 @@ header h1, header ul {
     margin-left: 20px;
     margin-bottom: 20px;
 }
+
+section a:link {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: #8C5E58;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+section a:visited {
+    color: yellow;
+    text-decoration: underline;
+}
+
+section a:hover, section a:active {
+    background-color: #F4A259;
+}
