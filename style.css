@@ -1,10 +1,15 @@
 body {
     font-family: 'Montserrat','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #E8D7C1;
+}
+
+head {
+    background-color: #f2ede4;
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #8C5E58;
+    color: #E8D7C1;
     padding: 20px;
     margin-bottom: 10px;
 }
@@ -26,7 +31,7 @@ nav li {
 }
 
 nav a {
-    color: #fff;
+    color: #E8D7C1;
     text-decoration: none;
     padding: 10px;
 }
@@ -49,10 +54,10 @@ section ul {
 }
 
 footer {
-    background-color: #333;
+    background-color: #8C5E58;
     position: fixed;
     bottom: 0;
-    color: #fff;
+    color: #E8D7C1;
     text-align: center;
     padding: 20px;
 }
@@ -84,7 +89,7 @@ footer {
 .video-container h1 {
     border-radius: 10px; /* Adjust as needed */
     padding: 10px; /* Adjust as needed */
-    background-color: #add2e4; /* Adjust as needed */
+    background-color: #8C5E58; /* Adjust as needed */
     margin-bottom: 10px;
 }
 
