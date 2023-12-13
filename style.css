@@ -10,7 +10,9 @@ head {
 header {
     background-color: #8C5E58;
     color: #E8D7C1;
-    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 0px #4C3B4D;
+    padding: 10px;
     margin-bottom: 10px;
 }
 
