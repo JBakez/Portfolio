@@ -103,11 +103,12 @@ footer {
 }
 
 .video-container video {
-    margin-top: 10px; /* Adjust as needed */
+    margin-top: 20px; /* Adjust as needed */
 }
 
 header h1, header ul {
     display: inline-block;
     vertical-align: middle;
     margin-left: 20px;
+    margin-bottom: 20px;
 }
