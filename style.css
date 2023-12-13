@@ -39,8 +39,11 @@ nav a {
 }
 
 main {
-    max-width: 800px;
-    margin: 0 auto;
+    main {
+        max-width: calc(100% - 20px); /* Subtract the left and right padding of the header */
+        padding: 10px;
+        margin-bottom: 10px;
+    }
 }
 
 section {
