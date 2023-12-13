@@ -63,6 +63,8 @@ footer {
   .video-container {
     display: flex;
     flex-direction: column;
+    wdith: 33%;
+    box-sizing: border-box;
     align-items: center;
   }
   
