@@ -64,7 +64,10 @@ footer {
     bottom: 0;
     color: #E8D7C1;
     text-align: center;
-    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 0px #4C3B4D;
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
 .video-row {
@@ -114,11 +117,12 @@ header h1, header ul {
 }
 
 section a:link {
-    color: white;
+    color: #E8D7C1;
     font-weight: bold;
     text-decoration: none;
     background-color: #8C5E58;
     padding: 5px 10px;
+    margin-bottom: 5px;
     border-radius: 5px;
 }
 
@@ -129,4 +133,13 @@ section a:visited {
 
 section a:hover, section a:active {
     background-color: #F4A259;
+}
+
+.video-row div h1 {
+    color: #E8D7C1;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: #8C5E58;
+    padding: 5px 10px;
+    border-radius: 5px;
 }
