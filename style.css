@@ -122,7 +122,7 @@ section a:link {
     text-decoration: none;
     background-color: #8C5E58;
     padding: 5px 10px;
-    margin-bottom: 5px;
+    margin-bottom: 20px;
     border-radius: 5px;
 }
 
@@ -145,6 +145,5 @@ section a:hover, section a:active {
 }
 
 section a {
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 20px;;
 }
