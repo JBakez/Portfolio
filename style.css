@@ -143,3 +143,8 @@ section a:hover, section a:active {
     padding: 5px 10px;
     border-radius: 5px;
 }
+
+.projects li {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
