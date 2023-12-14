@@ -144,7 +144,7 @@ section a:hover, section a:active {
     border-radius: 5px;
 }
 
-.projects li {
-    margin-top: 3px;
-    margin-bottom: 3px;
+section li {
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
