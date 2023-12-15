@@ -35,14 +35,13 @@ body {
     padding: 10px;
   }
   
-  main {
-    main {
+main {
       max-width: calc(100% - 20px);
       /* Subtract the left and right padding of the header */
       padding: 10px;
       margin-bottom: 10px;
     }
-  }
+  
   
   section {
     padding: 20px;
