@@ -154,8 +154,8 @@ section div {
   
 #vid-set img {
     flex: 1;
-    height: 100px;
-    border: 5px solid #8C5E58;
+    border: 2px solid #8C5E58;
     box-shadow: 5px 5px 10px 0px #4C3B4D;
     border-radius: 10px;
+    margin: 10px;
     }
